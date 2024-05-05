@@ -1,5 +1,5 @@
 Project Overview
-This is a NEXTJS application built with Tailwind CSS for AT Digital's internship program. It serves as a demonstration of your front-end development skills using these modern technologies.
+This is a NEXTJS application built with Tailwind CSS for AT Digital's internship program. It serves as a demonstration of my front-end development skills using these modern technologies.
 
 Installation
 Prerequisites:
