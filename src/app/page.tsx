@@ -32,7 +32,7 @@ export default function Home() {
 
       {/* Info Section 1 */}
 
-      <div className="flex flex-col mx-5 md:mx-0 md:flex-row ailgn-middle items-center justify-center">
+      <div className="flex flex-col mx-5 md:mx-0 sm:flex-row ailgn-middle items-center justify-center">
 
         <div className="">
           <Image src="/section1.png" alt="Section-1" width={414} height={414} />
@@ -47,7 +47,7 @@ export default function Home() {
 
       {/* Info Section 2 */}
 
-      <div className="flex flex-col my-5 mx-5 md:mx-0 md:flex-row ailgn-middle items-center justify-center">
+      <div className="flex flex-col my-5 mx-5 md:mx-0 sm:flex-row ailgn-middle items-center justify-center">
 
         <div className="order-last md:order-first md:ml-20 md:w-740 md:pr-14 md:text-left text-center">
           <h1 className="font-semibold text-3xl text-atpurple pb-3 font-poppins">Digital Strategy Consulting</h1>
@@ -64,7 +64,7 @@ export default function Home() {
 
       {/* FAQ Section */}
       <div className="mt-16 md:mt-11 ">
-        <h1 className="font-semibold text-3xl text-atpurple pb-5 font-poppins text-center mx-11">Frequently Asked Questions</h1>
+        <h1 className="font-semibold text-3xl text-atpurple pb-5 font-poppins text-center mx-11">Frequently asked questions</h1>
 
         <div className="flex flex-col items-center">
           <Accordion title="Lorem ipsum dolor sit amet consectetur. Leo at sit eu libero?" text="Lorem ipsum dolor sit amet consectetur. Faucibus commodo suscipit id ipsum. Elementum ultrices nulla faucibus odio est sed aliquam. Sapien massa morbi risus sagittis tortor integer." />
