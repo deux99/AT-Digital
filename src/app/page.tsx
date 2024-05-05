@@ -23,7 +23,7 @@ export default function Home() {
             <Button route="" text="GET FREE CONSULTATION" />
           </div>
         </div>
-
+ {/* Header & Hero Section Mobile View */}
       </div>
       <div className="bg-gradient-to-r from-gradient1 to-gradient2 md:hidden h-294">
         <p className="font-bold text-4xl text-white px-6 py-5">We Crush Your Competitors, Goals, And Sales Records - Without The B.S.</p>
