@@ -8,7 +8,7 @@ Node.js and npm (or yarn) installed on your system. You can download them from h
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/at-digital.git
+git clone https://github.com/deux99/at-digital.git
 Use code with caution.
 content_copy
 Navigate to the project directory:
