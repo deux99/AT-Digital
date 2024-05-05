@@ -1,5 +1,5 @@
 Project Overview
-This is a NEXTJS application built with Tailwind CSS for AT Digital's internship program. It serves as a demonstration of your front-end development skills using these modern technologies.
+This is a NEXTJS application built with Tailwind CSS for AT Digital's internship program. It serves as a demonstration of my front-end development skills using these modern technologies.
 
 Installation
 Prerequisites:
@@ -8,13 +8,13 @@ Node.js and npm (or yarn) installed on your system. You can download them from h
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/at-digital-internship-project.git
+git clone https://github.com/your-username/at-digital.git
 Use code with caution.
 content_copy
 Navigate to the project directory:
 
 Bash
-cd at-digital-internship-project
+cd AT-digital
 Use code with caution.
 content_copy
 Install dependencies:
