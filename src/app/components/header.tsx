@@ -12,7 +12,7 @@ export default function Header() {
                 <Image src="/logo.png" alt="Logo" width={238.89} height={25} />
             </div>
             <div>
-                <ul className=" hidden sm:flex text-sm">
+                <ul className=" hidden md:flex text-sm">
                     <li className="mr-5 text-white">HOME</li>
                     <li className="mr-5 text-white">SERVICES</li>
                     <li className="mr-5 text-white">ABOUT US</li>
@@ -45,7 +45,7 @@ export default function Header() {
 
                 </div> :
 
-                <div className="sm:hidden pt-2">
+                <div className="md:hidden pt-2">
                     <Image src="/image.png" alt="Menu" width={31} height={24} onClick={() => setIsMenuOpen(!isMenuOpen)} />
 
                 </div>}
